@@ -16,7 +16,7 @@ h1 {
     color:#33485e;
 }
 
-/* my job title */
+/* my title/profession */
 strong {
     color:#33485e;
     text-transform:uppercase;
@@ -51,7 +51,7 @@ h5 {
     font-style:italic;
 }
 
-/* contact info, skils, and education */
+/* contact info, skils, and education list items */
 li {
     font-size:1em;
 }
