@@ -1,8 +1,8 @@
 /* styles for my resume */
 
-/* all text */
+/* default text */
 body {
-    font-family: 'Open Sans', arial, sans-serif;
+    font-family: "Open Sans", arial, sans-serif;
     font-size:1em; 
     color:#444; 
     font-weight:400;
@@ -16,7 +16,7 @@ h1 {
     color:#33485e;
 }
 
-/* section titles */
+/* my job title */
 strong {
     color:#33485e;
     text-transform:uppercase;
@@ -47,7 +47,7 @@ h4 {
 /* job dates */
 h5 {
     font-size:1em;
-    font-weight:1em;
+    font-weight:400;
     font-style:italic;
 }
 
