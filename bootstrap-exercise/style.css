@@ -1,13 +1,12 @@
 /* styles for bootstrap assignment */
 
-.row img{
+.container img{
     width:100%;
     max-width: 500px;
 }
 
 .col-md-6 {
     text-align: center;
-    margin:0 auto;
 }
 
 .bi {
@@ -16,7 +15,6 @@
 
 .col-md-4 {
     text-align: center;
-    margin:0 auto;
 }
 
 h1, h2, h3, .navbar-brand, .btn {
@@ -33,7 +31,7 @@ h1, h2, h3, .navbar-brand, .btn {
     h2 {
         padding-top: 50px;
     }
-        .btn {
+    .btn {
             background-color: teal;
         }
 
