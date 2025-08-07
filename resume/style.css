@@ -81,35 +81,35 @@ body {
 li {
     font-size:1em;
 }
-
+ /* experience paragraph text */
 .description {
     margin: 10px 0;
 } 
-
+/* unordered list containing contact information */
 .menu {
     padding: 0px;
     margin: 0px;
     text-align: center;
 } 
-
+/* contact information list items */
 .menu li {
     display: inline;
 }
-
+/* unordered education list */
 #degrees {
     margin-top: 5px;
     margin-bottom: 0;
     margin-left: 0;
     margin-right: 0;
 }
-
+/* unordered skills list */
 #do {
     margin-top: 5px;
     margin-bottom: 0;
     margin-left: 0;
     margin-right: 0;
 }
-
+/* mission statement text */
 .top {
     width: 60%;
     min-width: 300px;
