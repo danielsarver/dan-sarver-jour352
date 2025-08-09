@@ -6,3 +6,21 @@
 #masthead {
     text-align: center
 }
+/* text for headline */
+.headline {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.bodytext {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size:13px;
+}
+
+#byline {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size:14px;
+    font-style:italic;
+}
