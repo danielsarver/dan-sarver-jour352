@@ -5,6 +5,7 @@
 
 #masthead {
     text-align: center;
+    width: 100%
     margin: 0 auto;
 }
 /* text for headline */
@@ -48,3 +49,22 @@
     margin-bottom: 5px;
 }
 
+blockquote {
+    font: 24px normal helvetica, sans-serif;
+    font-style: italic;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #01014c;
+    margin-left: 50px;
+    padding-left: 15px;
+    border-left: 4px solid #696969;
+}
+
+a:link {
+    color: 
+}
+
+h2 {
+    margin-top: 10px;
+    text-align: center;
+}
