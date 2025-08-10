@@ -4,19 +4,21 @@
 }
 
 #masthead {
-    text-align: center
+    text-align: center;
+    margin: 0 auto;
 }
 /* text for headline */
 .headline {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 28px;
     font-weight: bold;
-    text-align: center;
 }
 
 .bodytext {
     font-family: Georgia, "Times New Roman", serif;
     font-size:13px;
+    margin: 0;
+    padding: 0 20px;
 }
 
 #byline {
@@ -24,3 +26,25 @@
     font-size:14px;
     font-style:italic;
 }
+
+.photo img {
+    width:100%;
+    margin-top: 7px;
+}
+
+.photo-caption {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+    color:#696969;
+    margin-top:2px;
+    margin-bottom: 5px;
+}
+
+.photo-attribution {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 8px;
+    color:#696969;
+    margin-top:2px;
+    margin-bottom: 5px;
+}
+
