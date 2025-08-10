@@ -12,7 +12,15 @@
 .headline {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 28px;
-    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.subheading {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 1px;
+    margin-bottom: 10px;
 }
 
 .bodytext {
@@ -26,6 +34,7 @@
     font-family: Helvetica, Arial, sans-serif;
     font-size:14px;
     font-style:italic;
+    margin-top: 10px;
 }
 
 .photo img {
@@ -62,6 +71,7 @@ blockquote {
 
 .read-more-section {
     margin-top: 15px;
+    padding-top: 10px;
 }
 
 h2 {
