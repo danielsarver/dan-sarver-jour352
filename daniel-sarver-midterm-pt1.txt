@@ -66,6 +66,8 @@ Media queries are used to implement a responsive design and change the style of 
 
 11. What is the main difference between a serif and a sans-serif font?
 
+Serif font has little decorative lines called serifs on the letters that give more of an elequent feel. Sans-serif doesn't have the serifs on the letters, giving them a more modern and readable feel.
+
 12. Which of the following is a hexadecimal code?
 
 #FFCC33
