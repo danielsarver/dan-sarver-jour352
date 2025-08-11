@@ -1,0 +1,80 @@
+/* styles for midterm story */
+
+/* Headline at top of article */
+.headline {
+    font-family: Garamond, Times New "Times New Romans", serif;
+    font-size: 28px;
+    margin-bottom: 5px;
+    font-weight: bold;
+} 
+
+#masthead {
+     text-align: center;
+    width: 100%;
+    margin:0 auto;
+}
+
+.subheading {
+    font-family: Garamond, Times New "Times New Romans", serif;
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+/* styles for pullquote */
+blockquote {
+    font: 24px normal helvetica, Arial, sans-serif;
+    font-style: italic;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #01014c;
+    margin-left: 50px;
+    padding-left: 15px;
+    border-left: 4px solid #696969;
+} 
+
+p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size:13px;
+}  
+
+#content {
+    margin: 0 auto;
+    width: 900px;
+}
+
+#byline-date {
+    font-family: Garamond, Times New "Times New Romans", serif;
+    font-size: 14px;
+    font-style:italic;
+    margin-top: 10px;
+} 
+
+#date {
+    font-size: 11px;
+}
+
+.photo img {
+    width:100%;
+    margin-top: 7px;
+}
+
+.photo-caption {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    color:#696969;
+    margin-top:2px;
+    margin-bottom: 5px;
+}
+
+.photo-attribution {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 9px;
+    color:#696969;
+    margin-top:2px;
+    margin-bottom: 5px;
+}
+
+
+
+
+
