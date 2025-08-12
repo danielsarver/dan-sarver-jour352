@@ -1,0 +1,132 @@
+/* styles for resume assignment */
+.pagetopper p {
+    color: #000b5f;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-size: 2.75em;
+    font-weight:400;
+    margin:0 auto;
+    margin-bottom: -10px;
+}
+
+#job {
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-size: 2em;
+    font-weight:200;
+    margin:0 auto;
+    color: black;
+    border-bottom: 1px solid #33485e;
+    width:60%;
+    min-width:300px; 
+    margin-top: -5px;
+}
+
+.row {
+    margin-top: 50px;
+}
+
+.skills {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    border-bottom: 3px;
+    text-align: center;
+}
+
+
+.date {
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.lead {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.description {
+    font-family: Georgia,'Times New Roman', Times, serif;
+    font-size: 14px;
+    border-bottom: 0.5px solid #33485e;
+
+}
+
+.jobtitle {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+
+.organization {
+    font-family:"Oswald", sans-serif;
+}
+
+.col-md-6 {
+
+    text-align: center;
+}
+
+.navbar {
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+}
+
+i {
+    color:#000b5f;
+    height:25px;
+    width:25px;
+}
+
+.col-md-4 {
+    text-align: center;
+}
+
+.sectionheader {
+    font-family: "Oswald", sans-serif;
+    font-size: 2em;
+    border-bottom: 0.5px solid #33485e;
+    margin-bottom: 10px;
+
+}
+
+#container {
+    width:100%;
+    max-width:1200px;
+    margin:0 auto;
+    padding-bottom: 50px;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 4px;
+    margin-bottom:4px;
+}
+
+.degrees {
+    font-family: "Oswald", sans-serif;
+    font-weight: 400;
+}
+
+
+footer {
+    background-color: #000b5f;;
+    width: 100%;
+}
+
+footer p {
+    color:white;
+    text-align:center;
+}
+
+.footer p{
+    font-family: "Montserrat", sans-serif;
+    color:#fff;
+} 
+
+@media only screen and (max-width: 500px) {
+    h2 {
+        padding-top: 50px;
+    }
+    .btn {
+            background-color: teal;
+        }
+
+}
